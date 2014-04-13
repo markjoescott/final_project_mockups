@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Final Project Mockup Template</title>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <script src="js/bootstrap.js"></script>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="jumbotron" style="color:#0000FF">
+        <h1>Give Feedback</h1>
+      </div>
+    </div>
+    <div class="row">
+      
+      <div class="col-md-4">
+        <h3>This person is a hard worker</h3>
+        <div class="radio">
+
+  <label>
+      <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+      Strongly agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+    Agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+      Disagree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+    Strongly Disagree
+  </label>
+</div>
+ <div class="row">
+      
+      <div class="col-md-12">
+        <h3>This person takes initiative on projects</h3>
+        <div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios2" id="optionsRadios1" value="option1" checked>
+      Strongly agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios2" id="optionsRadios2" value="option2">
+    Agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios2" id="optionsRadios1" value="option1" checked>
+      Disagree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios2" id="optionsRadios2" value="option2">
+    Strongly Disagree
+  </label>
+</div>
+ <div class="row">
+      
+      <div class="col-md-12">
+        <h3>This candidate is a hard worker</h3>
+        <div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios3" id="optionsRadios1" value="option1" checked>
+      Strongly agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios3" id="optionsRadios2" value="option2">
+    Agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios3" id="optionsRadios1" value="option1" checked>
+      Disagree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios3" id="optionsRadios2" value="option2">
+    Strongly Disagree
+  </label>
+</div>
+
+ <div class="row">
+      
+      <div class="col-md-12">
+        <h3>Here's another question</h3>
+        <div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios4" id="optionsRadios1" value="option1" checked>
+      Strongly agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios4" id="optionsRadios2" value="option2">
+    Agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios4" id="optionsRadios1" value="option1" checked>
+      Disagree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios4" id="optionsRadios2" value="option2">
+    Strongly Disagree
+  </label>
+</div>
+ <div class="row">
+      
+      <div class="col-md-12">
+        <h3>Here's another question</h3>
+        <div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios5" id="optionsRadios1" value="option1" checked>
+      Strongly agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios5" id="optionsRadios2" value="option2">
+    Agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios5" id="optionsRadios1" value="option1" checked>
+      Disagree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios5" id="optionsRadios2" value="option2">
+    Strongly Disagree
+  </label>
+</div>
+ <div class="row">
+      
+      <div class="col-md-12">
+        <h3>Here's another question</h3>
+        <div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios6" id="optionsRadios1" value="option1" checked>
+      Strongly agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios6" id="optionsRadios2" value="option2">
+    Agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios6" id="optionsRadios1" value="option1" checked>
+      Disagree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios6" id="optionsRadios2" value="option2">
+    Strongly Disagree
+  </label>
+</div>
+ <div class="row">
+      
+      <div class="col-md-12">
+        <h3>Here's another question</h3>
+        <div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios7" id="optionsRadios1" value="option1" checked>
+      Strongly agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios7" id="optionsRadios2" value="option2">
+    Agree
+  </label>
+</div>
+<div class="radio">
+  <label>
+      <input type="radio" name="optionsRadios7" id="optionsRadios1" value="option1" checked>
+      Disagree
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="optionsRadios7" id="optionsRadios2" value="option2">
+    Strongly Disagree
+  </label>
+</div>
+        <footer>&#169; Honest Feedback 2014</footer>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
