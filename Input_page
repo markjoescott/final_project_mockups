@@ -102,85 +102,85 @@
  <div class="row">
       
       <div class="col-md-12">
-        <h3>Here's another question</h3>
+        <h3>Please rank the overall contribution of this team member.</h3>
         <div class="radio">
   <label>
       <input type="radio" name="optionsRadios4" id="optionsRadios1" value="option1" checked>
-      Strongly agree
+      Significantly above average
   </label>
 </div>
 <div class="radio">
   <label>
     <input type="radio" name="optionsRadios4" id="optionsRadios2" value="option2">
-    Agree
+    Above average
   </label>
 </div>
 <div class="radio">
   <label>
       <input type="radio" name="optionsRadios4" id="optionsRadios1" value="option1" checked>
-      Disagree
+      Below average
   </label>
 </div>
 <div class="radio">
   <label>
     <input type="radio" name="optionsRadios4" id="optionsRadios2" value="option2">
-    Strongly Disagree
+    Significantly below average.
   </label>
 </div>
  <div class="row">
       
       <div class="col-md-12">
-        <h3>Here's another question</h3>
+        <h3>How well did this team member communicate?</h3>
         <div class="radio">
   <label>
       <input type="radio" name="optionsRadios5" id="optionsRadios1" value="option1" checked>
-      Strongly agree
+     Excellent communicator
   </label>
 </div>
 <div class="radio">
   <label>
     <input type="radio" name="optionsRadios5" id="optionsRadios2" value="option2">
-    Agree
+    Good communicator
   </label>
 </div>
 <div class="radio">
   <label>
       <input type="radio" name="optionsRadios5" id="optionsRadios1" value="option1" checked>
-      Disagree
+      Communication needs improvement
   </label>
 </div>
 <div class="radio">
   <label>
     <input type="radio" name="optionsRadios5" id="optionsRadios2" value="option2">
-    Strongly Disagree
+    Weak communicator
   </label>
 </div>
  <div class="row">
       
       <div class="col-md-12">
-        <h3>Here's another question</h3>
+        <h3>Identify the role of this team member</h3>
         <div class="radio">
   <label>
       <input type="radio" name="optionsRadios6" id="optionsRadios1" value="option1" checked>
-      Strongly agree
+      Workhorse
   </label>
 </div>
 <div class="radio">
   <label>
     <input type="radio" name="optionsRadios6" id="optionsRadios2" value="option2">
-    Agree
+    Visionary
   </label>
 </div>
 <div class="radio">
   <label>
       <input type="radio" name="optionsRadios6" id="optionsRadios1" value="option1" checked>
-      Disagree
+      Motivator
   </label>
 </div>
 <div class="radio">
   <label>
     <input type="radio" name="optionsRadios6" id="optionsRadios2" value="option2">
-    Strongly Disagree
+    Manager
   </label>
 </div>
  <div class="row">
