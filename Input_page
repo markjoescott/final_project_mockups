@@ -9,7 +9,7 @@
 <body>
   <div class="container">
     <div class="row">
-      <div class="jumbotron" style="color:#0000FF">
+      <div class="jumbotron" style="color:#87CEFA">
         <h1>Give Feedback</h1>
       </div>
     </div>
